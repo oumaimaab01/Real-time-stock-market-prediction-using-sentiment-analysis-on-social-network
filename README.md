@@ -6,4 +6,5 @@ Les données sont traitées par Apache Spark, puis stockées dans Elasticsearch.
 prédiction sont entraînés et suivis avec MLflow, et les visualisations sont effectuées avec Kibana. Les
 tâches sont orchestrées par Apache Airflow, et les données volumineuses sont gérées avec Hadoop
 dans un environnement conteneurisé.
+
 ![Architecture de la solution](architecture.png)
